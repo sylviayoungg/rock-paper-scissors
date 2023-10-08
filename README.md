@@ -11,5 +11,5 @@ Two closed hands restarts a new game.
 An open hand and a closed hand and updates the user score on the screen.
 An open hand and a pointing hand displays game statistics - user score, number of games, and computer score.
 
-The game page displays the game instructions, the user's live camera feed, a graphical representation of the option played by the user and the computer respectively, the user score, the outcome of each game - user win or loss, and computer win or loss, and a countdown to indicate the start of a round or game.
+The game page displays the game instructions, the user's live camera feed, a graphical representation of the option played by the user and the computer respectively, the user score, the outcome of each game - user win or loss, and a countdown to indicate the start of a round or game.
 The number of games and computer score are displayed only when the user indicates with an open hand and a pointing hand to display game statistics.
