@@ -1,0 +1,55 @@
+.box{
+    border: 5px solid lightcoral;
+    height: 825px;
+    align-items: center;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: orangered;
+}
+
+h2{
+    font-size: small;
+}
+
+h3{
+    font-size: 30px;
+}
+
+.show{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.show i{
+    font-size: 80px;
+    color: orange;
+}
+.showComputer{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.showComputer i{
+    font-size: 80px;
+    color: orange;
+}
+
+#score{
+    text-align: left;
+}
+
+#games{
+    text-align: center;
+}
+
+#computerScore{
+    text-align: right;
+}
